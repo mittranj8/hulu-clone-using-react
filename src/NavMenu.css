@@ -53,6 +53,7 @@
 
 .navMenu_icon:hover > p {
   display: inline-flex;
+  transition: transform 50ms ease-out;
 }
 
 .navMenu_icon--active > p {
